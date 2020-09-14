@@ -21,6 +21,21 @@ h1 {
     background-color: white;
 }
 
+.container {
+    margin-top: 100px;
+    margin-left: 125px;
+}
+
+.display-4 {
+    font-weight: 800px;
+}
+
+.headshot {
+    padding-right: 30px;
+    align: left;
+}
+
+
 p{
     font-family: sans-serif;
 }
