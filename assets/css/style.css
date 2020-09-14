@@ -3,7 +3,8 @@ body {
     background-repeat: repeat;
 }
 h1 {
-    color: red
+    color: teal;
+    font-weight: 300px;
 }
 
 .navbar-light .navbar-brand {
@@ -15,10 +16,6 @@ h1 {
     color: grey;
 }
 
-/* .background {
-    height: 800px;
-    width: 100%;
-    background-image: url("../ignasi_pattern_s.png");
-    background-size: cover;
-    background-position: center;
-} */
+.container {
+    background-color: white;
+}
