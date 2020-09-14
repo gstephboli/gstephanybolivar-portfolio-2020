@@ -1,6 +1,7 @@
 body {
     background-image: url("../ignasi_pattern_s.png");
     background-repeat: repeat;
+    font-family: 'Merriweather', serif;
 }
 h1 {
     color: teal;
@@ -18,4 +19,8 @@ h1 {
 
 .container .jumbotron {
     background-color: white;
+}
+
+p{
+    font-family: sans-serif;
 }
