@@ -12,6 +12,9 @@
     background-color: white;
 }
 
+.container {
+    margin-left: 50px;
+}
 
 .display-4 {
     font-weight: 800px;
