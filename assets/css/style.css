@@ -10,3 +10,11 @@ h1 {
 .navbar-light .navbar-nav .nav-link li{
     color: grey;
 }
+
+.background {
+    height: 800px;
+    width: 100%;
+    background-image: url("../ignasi_pattern_s.png");
+    background-size: cover;
+    background-position: center;
+}
