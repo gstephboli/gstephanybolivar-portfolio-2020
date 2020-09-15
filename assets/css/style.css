@@ -39,3 +39,15 @@ h1 {
 p{
     font-family: sans-serif;
 }
+
+footer {
+    text-align: center;
+    border-top: teal solid 5px;
+    background-color: grey;
+    color: rgb(29, 25, 25);
+    height: 50px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
