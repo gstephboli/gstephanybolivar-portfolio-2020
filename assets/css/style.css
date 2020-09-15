@@ -17,28 +17,6 @@ h1 {
     color: grey;
 }
 
-.container .jumbotron {
-    background-color: white;
-}
-
-.container {
-    margin-top: 100px;
-    margin-left: 125px;
-}
-
-.display-4 {
-    font-weight: 800px;
-}
-
-.headshot {
-    padding-right: 10px;
-    align: left;
-}
-
-
-p{
-    font-family: sans-serif;
-}
 
 footer {
     text-align: center;
@@ -49,5 +27,5 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    position: fixed;
+    position: sticky;
 }
