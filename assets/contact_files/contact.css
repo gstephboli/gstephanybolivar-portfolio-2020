@@ -17,12 +17,18 @@ form {
 
     .container {
         max-width: 610px;
+
     }
+
+
 }
+
 
 @media screen and (max-width: 400px) {
 
     .container {
         max-width: 75%;
-    }  
+    }
+
+    
 }
