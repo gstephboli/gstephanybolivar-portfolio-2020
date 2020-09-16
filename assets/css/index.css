@@ -1,7 +1,3 @@
-.container .jumbotron {
-    background-color: white;
-}
-
 .container {
     margin-left: 125px;
 }
@@ -19,7 +15,7 @@
 p{
     font-family: sans-serif;
 }
-
+/* Set standards for tablets */
 @media screen and (max-width: 768px) {
 
     .container {
@@ -32,7 +28,7 @@ p{
     
 }
 
-
+/* Set standards for phones */
 @media screen and (max-width: 400px) {
 
     .container {

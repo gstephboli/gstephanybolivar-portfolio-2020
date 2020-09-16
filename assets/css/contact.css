@@ -11,7 +11,7 @@
 form {
     font-family: sans-serif;
 }
-
+/* Set standards for tablets */
 @media screen and (max-width: 768px) {
 
     .container {
@@ -24,7 +24,7 @@ form {
     
 }
 
-
+/* Set standards for phones */
 @media screen and (max-width: 400px) {
 
     .container {
