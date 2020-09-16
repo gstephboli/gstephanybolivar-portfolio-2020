@@ -13,12 +13,27 @@
 }
 
 .container {
-    margin-top: 50px;
     margin-left: 50px;
 }
 
 .display-4 {
     font-weight: 800px;
+}
+
+
+@media screen and (max-width: 768px) {
+
+
+
+
+}
+
+
+@media screen and (max-width: 400px) {
+
+
+
+    
 }
 
 
