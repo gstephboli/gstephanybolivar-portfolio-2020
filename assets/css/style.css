@@ -17,6 +17,10 @@ h1 {
     color: grey;
 }
 
+.container {
+    margin-top: 50px;
+}
+
 
 footer {
     text-align: center;
