@@ -21,7 +21,7 @@ p{
     font-family: sans-serif;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
 
     .container {
         width: 78%;
@@ -42,7 +42,4 @@ p{
        margin-left: 27px;
     }
         
-    
-
-
-}
+} */
