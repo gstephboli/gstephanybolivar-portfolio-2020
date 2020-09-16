@@ -13,20 +13,3 @@ form {
     font-family: sans-serif;
 }
 
-@media screen and (max-width: 768px) {
-
-    .container {
-        max-width: 610px;
-    }
-}
-
-@media screen and (max-width: 400px) {
-
-    .container {
-        width: 85%;
-        padding-right: 15px;
-        padding-left: 10px;
-        margin-right: auto;
-        margin-left: 41px;
-    }  
-}
