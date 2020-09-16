@@ -23,9 +23,9 @@ Happy editing!
 
 This [website] (https://gstephboli.github.io/gstephanybolivar-portfolio-2020/) allows for possible future clients to see my work as a web developer in the portfolio page. The 'About Me' page allows for the client to learn more about me and finally, the contact page allows for the user to reach out to me with any inquiries about my work and possible future hire. 
 
-![AboutMeHomepage] (./aboutmehomepage.jpg)
-![PortfolioHomepage] (./portfoliohomepage.jpg)
-![ContactHomepage] (./contacthomepage.jpg)
+![AboutMeHomepage](./images/aboutmehomepage.jpg)
+![PortfolioHomepage](./images/portfoliohomepage.jpg)
+![ContactHomepage](./images/contacthomepage.jpg)
 
 ## Credits
 
