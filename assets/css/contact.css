@@ -15,7 +15,6 @@ form {
 
 @media screen and (max-width: 768px) {
 
-<<<<<<< HEAD
     .container {
         width: 78%;
         padding-right: 15px;
@@ -24,17 +23,11 @@ form {
         margin-left: 41px;
     }
     
-=======
-
-
-
->>>>>>> 618633b8ce52548a355ecafd62d897247c8c5fb1
 }
 
 
 @media screen and (max-width: 400px) {
 
-<<<<<<< HEAD
     .container {
        width:90%;
        margin-top: 100px;
@@ -47,9 +40,3 @@ form {
     }
         
 } */
-=======
-
-
-    
-}
->>>>>>> 618633b8ce52548a355ecafd62d897247c8c5fb1
