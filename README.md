@@ -10,7 +10,7 @@ This project challenged me to combine all the skills and knowledge I've gained a
 
 ## Installation
 
-Fork repository at https://github.com/gstephboli/gstephanybolivar-portfolio-2020 .
+Fork repository at https://github.com/gstephbolivar/gstephanybolivar-portfolio .
 
 Clone repository to local terminal.
 
@@ -21,7 +21,7 @@ Happy editing!
 
 ## Usage
 
-This [website] (https://gstephboli.github.io/gstephanybolivar-portfolio-2020/) allows for possible future clients to see my work as a web developer in the portfolio page. The 'About Me' page allows for the client to learn more about me and finally, the contact page allows for the user to reach out to me with any inquiries about my work and possible future hire. 
+This [website] (https://gstephbolivar.github.io/gstephanybolivar-portfolio/) allows for possible future clients to see my work as a web developer in the portfolio page. The 'About Me' page allows for the client to learn more about me and finally, the contact page allows for the user to reach out to me with any inquiries about my work and possible future hire. 
 
 ![AboutMeHomepage](./images/aboutmehomepage.jpg)
 ![PortfolioHomepage](./images/portfoliohomepage.jpg)
@@ -36,6 +36,12 @@ I credit [W3Schools] (https://www.w3schools.com) for both the HTML and CSS assis
 Bootstrap links and code were used from [Bootstrap] (https://www.getbootstrap.com) . 
 
 Tutorial for correcting navigation bar through [YouTube] (https://www.youtube.com/watch?v=uduTSA_bkVY) .
+
+## Contact
+
+####  **Stephany Bolivar** 
+*  **Github:** [@gstephbolivar](https://github.com/gstephbolivar)
+*  **Email:** [g.stephanybolivar@gmail.com](g.stephanybolivar@gmail.com)
 
 
 ## License
